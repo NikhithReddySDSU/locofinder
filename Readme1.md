@@ -1,2 +1,0 @@
-# LocoFinder
-# Suggest Loacation
